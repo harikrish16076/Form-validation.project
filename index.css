@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+.hw{
+    text-align: center;
+    margin-top: 30vh;
+    border: 1px solid black;
+    color: red;
+    background-color: gray;
+    padding: 15vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 20%;
+    box-shadow: 5px 5px 1px rgb(150, 150, 150);
+    
+
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+
+}   
+p{
+    font-size: 20px;
+    margin: 0;
+}
+.hw:hover{
+    background-color: lightgray;
+    color: rgb(207, 243, 5);
+    box-shadow: 10px 10px 1px rgb(100, 100, 100);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+
+
+    
+
